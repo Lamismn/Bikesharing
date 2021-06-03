@@ -29,11 +29,20 @@ The image above shows that the peak hours during weekdays are around the beginin
 <img width="233" alt="Usertype" src="https://user-images.githubusercontent.com/79733383/120586798-2d110180-c402-11eb-94cf-21cf6f3af1b0.PNG">
 
 The image above shows that the majority of riders are subscribers, rather than one-time customers, it also shows that subscribers have a more systemic usage with visible peak hours that are almost uniform,, versus the almost uniform usage of  customers.
+## Summary
+The visualizations made in this study show us that the project has a good potential in Des-Moines, due to the age distribution & the fact that most people have a relatively short commute to work (the average commute is 18mins). Which means that the drive to work can be replaced by a ride.
 
+It also shows that we will need to make some effort in marketing the project among females as well as promoting long term subscriptions.
 
+The study also gives us a clearer view of suitable maintenance hours & bike shifts, as well as hours with maximum numner of bikes needed.
 
+More visualizations showing the separated age groups number of rides would give us more insights to the age demographics we need to target in our marketing campaigns.
+## Links to Story & deliverables
 
-
-
-
-Line to Dashboard: https://public.tableau.com/app/profile/lamis3656/viz/NYCCitiBikeStory_16226928631730/NYCBikesharing
+Links to the project deliverables:
+1. Deliverable 2.1: https://public.tableau.com/app/profile/lamis3656/viz/BikesharingCheckouttimes/Checkouttimesforusers
+2. Deliverable 2.2: https://public.tableau.com/app/profile/lamis3656/viz/BikesharingCheckoutbygender/CheckouttimesbyGender
+3. Deliverable 2.3: https://public.tableau.com/app/profile/lamis3656/viz/BikesharingTripsbyweekday/Tripsbyweekdayperhour
+4. Deliverable 2.4: https://public.tableau.com/app/profile/lamis3656/viz/BikesharingTripsbygender/TripsbyGenderWeekdayperhour
+5. Deliverable 2.5: https://public.tableau.com/app/profile/lamis3656/viz/BikesharingChallenge_16225695944880/Usertripsbygenderbyweekdays
+6. Deliverable 3: https://public.tableau.com/app/profile/lamis3656/viz/NYCCitiBikeStory_16226928631730/NYCBikesharing
