@@ -40,9 +40,10 @@ More visualizations showing the separated age groups number of rides would give 
 ## Links to Story & deliverables
 
 Links to the project deliverables:
-1. Deliverable 2.1: https://public.tableau.com/app/profile/lamis3656/viz/BikesharingCheckouttimes/Checkouttimesforusers
-2. Deliverable 2.2: https://public.tableau.com/app/profile/lamis3656/viz/BikesharingCheckoutbygender/CheckouttimesbyGender
-3. Deliverable 2.3: https://public.tableau.com/app/profile/lamis3656/viz/BikesharingTripsbyweekday/Tripsbyweekdayperhour
-4. Deliverable 2.4: https://public.tableau.com/app/profile/lamis3656/viz/BikesharingTripsbygender/TripsbyGenderWeekdayperhour
-5. Deliverable 2.5: https://public.tableau.com/app/profile/lamis3656/viz/BikesharingChallenge_16225695944880/Usertripsbygenderbyweekdays
-6. Deliverable 3: https://public.tableau.com/app/profile/lamis3656/viz/NYCCitiBikeStory_16226928631730/NYCBikesharing
+1. Deliverable 1: Link to compressed CSV output file: https://drive.google.com/file/d/1ae7I_FGtjq35YBRC2DGjBHgiSi9b5cUI/view?usp=sharing
+2. Deliverable 2.1: https://public.tableau.com/app/profile/lamis3656/viz/BikesharingCheckouttimes/Checkouttimesforusers
+3. Deliverable 2.2: https://public.tableau.com/app/profile/lamis3656/viz/BikesharingCheckoutbygender/CheckouttimesbyGender
+4. Deliverable 2.3: https://public.tableau.com/app/profile/lamis3656/viz/BikesharingTripsbyweekday/Tripsbyweekdayperhour
+5. Deliverable 2.4: https://public.tableau.com/app/profile/lamis3656/viz/BikesharingTripsbygender/TripsbyGenderWeekdayperhour
+6. Deliverable 2.5: https://public.tableau.com/app/profile/lamis3656/viz/BikesharingChallenge_16225695944880/Usertripsbygenderbyweekdays
+7. Deliverable 3: https://public.tableau.com/app/profile/lamis3656/viz/NYCCitiBikeStory_16226928631730/NYCBikesharing
